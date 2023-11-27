@@ -8,6 +8,5 @@ This dataset contains information regarding the demography (income, population, 
 Based on this hypothesis we trained feedforward neuron network with the following architecture:
 8 Inputs, 2 Hidden Layers, and 1 output (see figure)
 
-<img width="459" alt="image" src="https://github.com/oubbatimo/Housing-Price-Prediction/assets/92709052/c0ba1c54-cf9a-46b2-947a-bad91c5eacf9">
+![image](https://github.com/oubbatimo/Housing-Price-Prediction/assets/92709052/e1c5c1e5-7398-4eba-8c7b-069aca594c3b)
 
-![image](https://github.com/oubbatimo/Housing-Price-Prediction/assets/92709052/9733bef0-3a5e-4448-84be-187ce3e37ce9)
