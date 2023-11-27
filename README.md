@@ -9,3 +9,6 @@ Based on this hypothesis we trained feedforward neuron network with the followin
 8 Inputs, 2 Hidden Layers, and 1 output (see figure)
 
 <img width="459" alt="image" src="https://github.com/oubbatimo/Housing-Price-Prediction/assets/92709052/c0ba1c54-cf9a-46b2-947a-bad91c5eacf9">
+
+
+![image](https://github.com/oubbatimo/Housing-Price-Prediction/assets/92709052/b8e2e49d-84bf-42c8-8c0f-4df64ee8da01)
