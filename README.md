@@ -8,6 +8,9 @@ This dataset contains information regarding the demography (income, population, 
 Based on this hypothesis we trained feedforward neuron network with the following architecture:
 8 Inputs, 2 Hidden Layers, and 1 output (see figure)
 
+<img width="459" alt="image" src="https://github.com/oubbatimo/Housing-Price-Prediction/assets/92709052/10cc4c2a-e90f-4c29-a269-e6d3d9b327e2">
+
+
 ![image](https://github.com/oubbatimo/Housing-Price-Prediction/assets/92709052/e1c5c1e5-7398-4eba-8c7b-069aca594c3b)
 
 The Neural net deliver satisfactory preliminary results due to the generalization on test data. Further tests should be conducted using other machine learning models, including new inputs such as distance to the center, renovation condition, area of the house, etc.
