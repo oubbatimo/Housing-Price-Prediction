@@ -10,5 +10,4 @@ Based on this hypothesis we trained feedforward neuron network with the followin
 
 <img width="459" alt="image" src="https://github.com/oubbatimo/Housing-Price-Prediction/assets/92709052/c0ba1c54-cf9a-46b2-947a-bad91c5eacf9">
 
-
-![image](https://github.com/oubbatimo/Housing-Price-Prediction/assets/92709052/b8e2e49d-84bf-42c8-8c0f-4df64ee8da01)
+![image](https://github.com/oubbatimo/Housing-Price-Prediction/assets/92709052/9733bef0-3a5e-4448-84be-187ce3e37ce9)
